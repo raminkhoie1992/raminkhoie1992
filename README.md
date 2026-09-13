@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ramin 👋
 
-<!--
-**raminkhoie1992/raminkhoie1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer in progress, currently learning HTML, CSS, and JavaScript.
 
-Here are some ideas to get you started:
+## 🎯 Current Focus
+- Building responsive layouts with Flexbox & CSS Grid
+- Learning JavaScript deeply
+- Preparing for a frontend developer role in Germany
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech I'm Working With
+HTML5 · CSS3 · Git · GitHub
+
+## 📚 Currently Learning
+JavaScript · Flexbox · CSS Grid · Responsive Design
+
+## 📫 Reach Me
+- GitHub: [@raminkhoie1992](https://github.com/raminkhoie1992)
+
+---
+*Last updated: September 2026*
