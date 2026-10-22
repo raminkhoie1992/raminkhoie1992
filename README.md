@@ -1,24 +1,27 @@
-# Hi there, I'm Ramin 👋
+# Hi, I'm Ramin Khoie 👋
 
-I am a Frontend Developer focused on building clean, responsive, and accessible web interfaces. I believe in writing semantic HTML, modular CSS, and robust JavaScript to create seamless and pixel-perfect user experiences.
+Frontend Developer specializing in building scalable, accessible, and high-performance web applications. Currently focused on mastering the modern React ecosystem and preparing for professional opportunities in Germany.
 
-## 🎯 Core Focus
-- Building highly responsive layouts using Flexbox & CSS Grid.
-- Deepening expertise in Vanilla JavaScript and DOM manipulation.
-- Developing scalable, maintainable, and bug-free frontend architectures.
+## 🎯 Core Focus & Philosophy
+- **Type-Safety First:** Strict TypeScript is not an option; it is the foundation of maintainable code.
+- **Test-Driven Mindset:** Believing that untested code is broken code. Proficient in writing robust Unit and Integration tests.
+- **Clean Architecture:** Writing modular, readable, and self-documenting code that scales with the business.
+- **Accessibility (a11y):** Committed to building inclusive web experiences following WCAG standards.
 
-## 🛠 Tech Stack
-- Languages: HTML5, CSS3, JavaScript (ES6+)
-- Tools & Version Control: Git, GitHub
-- Concepts: Responsive Design, Web Accessibility (a11y), Semantic HTML, Mobile-First Approach
+## 🛠️ Technical Stack
+- **Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3
+- **Frameworks & Libraries:** React, Next.js, Tailwind CSS
+- **Testing:** Jest, React Testing Library (RTL)
+- **Tools & Workflow:** Git, GitHub, Vite, ESLint, Prettier
 
-## 🚀 Current Projects
-- Swiss-Standard Portfolio: A collection of meticulously crafted, interactive frontend components.
-- Interactive Web Interfaces: Focusing on clean vanilla JS logic and performance optimization.
+## 🚀 Current Mission
+- Deepening expertise in advanced Next.js patterns (Server Components, App Router).
+- Building production-ready, fully tested portfolio projects to demonstrate Mid-Level proficiency.
+- Preparing for the German tech market (B1/B2 German language acquisition & cultural integration).
 
-## 📫 Reach Me
-- GitHub: [raminkhoie1992](https://github.com/raminkhoie1992)
-- Email: [raminkhoie1992@gmail.com]
+## 📫 Connect with Me
+- **Email:** [raminkhoie1992@gmail.com](mailto:raminkhoie1992@gmail.com)
+
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026 | Building with discipline and purpose.*
